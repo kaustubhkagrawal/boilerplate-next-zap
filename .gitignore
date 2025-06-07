@@ -45,7 +45,6 @@ next-env.d.ts
 bun.lock
 package-lock.json
 yarn.lock
-pnpm-lock.yaml
 Cargo.lock
 uv.lock
 target/**
